@@ -1,5 +1,5 @@
 # Facial Expression Emotion Detection System
-## Introduction
+## Overview
 This project work is submitted in the partial fulfillment of the requirements for the award of the certification of **Artificial Intelligence & Deep Learning** powered by **IBM**. 
 
 Our aim was to develop a machine learning model that detects facial expressions that can be used by businesses and organizations to understand the employee’s mental wellbeing while working.

@@ -6,5 +6,5 @@ Our aim was to develop a machine learning model that detects facial expressions 
 
 By using the **FER2013 dataset**, we trained a Machine Learning model using Tensorflow, used OpenCV to extract and modify image data and used Google Colaboratory features to implement a real-time face expression detection model that captures each image frame and analyzes for emotion on each frame. 
 
-##Contributors
+## Contributors
 This project was made by **Divyansh Karakoti**, **Devangi Bedi** and **Aarav Bamba**.
